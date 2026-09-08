@@ -321,14 +321,26 @@ Academic Management
      └── Analytics
 ```
 
-> **AcadNexus Pro — Centralize Academics. Simplify Management. Empower Learning.**
+## 👨‍💻 Developer
+
+**CHADARASIPALLI RAMCHARAN**
+
+🎓 B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+
+🏫 Sir Padampat Singhania University
+
+💻 Full Stack Developer | AI & ML Enthusiast
+
 
 ---
 
 <p align="center">
 
+### 📊 AcadNexus
+
+> **AcadNexus Pro — Centralize Academics. Simplify Management. Empower Learning.**
+
 **Built with ❤️ using React • TypeScript • Vite • Tailwind CSS • Supabase • PostgreSQL**
 
 **© 2026 Chadarasipalli Ramcharan — AcadNexus Pro**
 
-</p>
