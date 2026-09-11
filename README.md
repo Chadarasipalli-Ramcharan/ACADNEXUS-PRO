@@ -91,26 +91,6 @@
 
 ---
 
-
-## 🧩 Core Components
-
-- 🔐 Authentication & Authorization
-- 🛡️ Super Admin Management
-- 🏢 Department Management
-- 👨‍🏫 Faculty Management
-- 🎓 Student Management
-- 📚 Subject Management
-- 📝 Assignment Management
-- 🧪 Laboratory & Practical Tasks
-- 📤 Digital Submissions
-- 📊 Polls & Surveys
-- 📢 Announcements
-- 🎥 Learning Materials & Videos
-- 📈 Academic Analytics
-
----
-
-
 ## 🏗️ System Architecture
 
 ```text
